@@ -1,4 +1,3 @@
-// Assignment 1
 // Yuheng Jia 10/02/2021
 // Program to calculate transition energy using simple Bohr formula
 
